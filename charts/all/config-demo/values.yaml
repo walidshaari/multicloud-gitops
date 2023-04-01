@@ -7,8 +7,8 @@ configdemosecret:
   key: secret/data/global/config-demo
 
 global:
-  hubClusterDomain: hub.example.com
-  localClusterDomain: region-one.example.com
+  hubClusterDomain: abc-hub.jhko.p1.openshiftapps.com
+  localClusterDomain: devux001-dev.7p4r.p1.openshiftapps.com
 
 clusterGroup:
   isHubCluster: true
